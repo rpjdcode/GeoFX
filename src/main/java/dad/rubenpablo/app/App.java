@@ -49,6 +49,7 @@ public class App extends Application {
 		
 		primaryStage.setTitle("GeoFX");
 		primaryStage.setScene(escena);
+		primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("/imgs/icons/Globe-icon.png")));
 		primaryStage.show();
 
 	}

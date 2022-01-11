@@ -7,6 +7,7 @@ import dad.rubenpablo.app.ipapi.PapiService;
 import dad.rubenpablo.app.ipify.IpifyService;
 import javafx.application.Application;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 public class App extends Application {
